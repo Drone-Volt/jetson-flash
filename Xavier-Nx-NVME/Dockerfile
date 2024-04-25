@@ -1,4 +1,4 @@
-FROM balenalib/amd64-ubuntu:focal-run-20221210
+FROM balenalib/aarch64-ubuntu:focal-run
 
 ENV DEBIAN_FRONTEND noninteractive
 
